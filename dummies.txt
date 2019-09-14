@@ -1,0 +1,1 @@
+username-position ng-scope material-icons
